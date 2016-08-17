@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3313659
+  lightness: 0.544688
+  brandStrength: 0.9317032
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#BFBEDD'
+    - '#F0762F'
+    - '#353535'
+  rhythmicContrast: 0.574199
+typography_spectrum: 0
+name: Afraid Knot
